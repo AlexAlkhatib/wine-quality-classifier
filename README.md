@@ -1,3 +1,8 @@
+# 🍷 Wine Quality Predictor — Deep Learning Classification & Regression
+
+Développement d’un modèle de **deep learning** pour prédire la qualité des vins (rouges et blancs) à partir de leurs caractéristiques chimiques, basé sur le dataset *Wine Quality*.
+
+
 ## 📌 Objectif du Projet
 
 L’objectif est de prédire la qualité d’un vin grâce à des modèles d’apprentissage supervisé :
