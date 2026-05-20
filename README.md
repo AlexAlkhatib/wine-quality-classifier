@@ -13,12 +13,12 @@ L’objectif est de prédire la qualité d’un vin grâce à des modèles d’a
 
 Le pipeline inclut :
 
-✔️ Prétraitement des données
-✔️ Nettoyage et normalisation
-✔️ Encodage des variables catégorielles
-✔️ Construction de modèles de deep learning
-✔️ Analyse des performances (MAE, accuracy…)
-✔️ Visualisation des résultats
+- ✔️ Prétraitement des données
+- ✔️ Nettoyage et normalisation
+- ✔️ Encodage des variables catégorielles
+- ✔️ Construction de modèles de deep learning
+- ✔️ Analyse des performances (MAE, accuracy…)
+- ✔️ Visualisation des résultats
 
 
 ## 📂 Dataset
@@ -52,10 +52,10 @@ Répartition des types de vins :
 
 ### Étapes appliquées :
 
-✔️ Vérification et imputation des valeurs manquantes (moyenne)
-✔️ Normalisation des variables numériques (*MinMaxScaler*)
-✔️ Encodage de la variable catégorielle *type* (red/white) via **OneHotEncoder**
-✔️ Split des données :
+- ✔️ Vérification et imputation des valeurs manquantes (moyenne)
+- ✔️ Normalisation des variables numériques (*MinMaxScaler*)
+- ✔️ Encodage de la variable catégorielle *type* (red/white) via **OneHotEncoder**
+- ✔️ Split des données :
 
 * 70% train
 * 15% validation
